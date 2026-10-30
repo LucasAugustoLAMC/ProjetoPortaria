@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dados_portaria.enc
+registros_portaria.csv
+auditoria_portaria.csv
+tipos_temporarios.csv
+usuarios_portaria.json
+portaria.log
+.*.tmp
+*.bak
+*.backup
